@@ -14,4 +14,5 @@ for i in message:
         cipher += alfabet[new_place]
     else:
         cipher += i
-print(f'Your password in cipher is:',cipher)
+print('Cipher: Cezar\'s')
+print(f'Your password is:',cipher)
